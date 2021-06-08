@@ -2,7 +2,7 @@
 layout: page
 title: CV
 permalink: /CV/
-description: My Curriculum Vitae.
+description: This is my Curriculum Vitae.
 nav: true
 display_categories: [work]
 horizontal: false
