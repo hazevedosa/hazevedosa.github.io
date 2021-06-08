@@ -5,15 +5,11 @@ permalink: /
 # description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
-  address: >
-    <p>3150 Ford Motor Company Robotics Building</p>
-    <p>2505 Hayward Street</p>
-    <p>Ann Arbor, MI 48109</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
